@@ -3,8 +3,8 @@ new Vue({
     data: {
         displaySettings: false,
         rotation: 0,
-        theme: "realistic",
-        style: "simple",
+        theme: "dark",
+        style: "realistic",
         degrees: 0,
     },
     methods: {
